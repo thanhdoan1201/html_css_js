@@ -14,7 +14,7 @@ else if(test==1||a==''){
 }
 //Fix nav hidden after resize window
 setInterval(function(){
-if(window.innerWidth>495){
+if(window.innerWidth>550){
     unset();
 }},9^999)
 
